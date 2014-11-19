@@ -1,0 +1,9 @@
+
+Sorting methods 
+==================>>>
+
+1. selection sort.
+	select the minimum value in the list, and exchange it with the first element
+	in the list. And for the second one to the second place in the list.
+	and so on...
+
